@@ -168,7 +168,6 @@ make test
 ## Acknowledgements
 
 ---
-
 - [Dr Ramakrishna Upadrasta](https://www.iith.ac.in/cse/ramakrishna) for his guidance and support
 
 
